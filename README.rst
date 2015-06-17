@@ -1,2 +1,1 @@
-hi
- 
+here is the readme.rst
